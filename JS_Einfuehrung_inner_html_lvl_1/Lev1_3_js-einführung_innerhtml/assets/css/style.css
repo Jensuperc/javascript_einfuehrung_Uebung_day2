@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .gallery figure img {
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    height: 100px;
+    justify-content: flex-start;
+    align-items: flex-start;
+} */
